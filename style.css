@@ -1,0 +1,377 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.Section1 {
+    background: url("Donate Images/donation6.jpg") no-repeat center center fixed;
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    margin-top: -4%;
+    padding-bottom: 120px;
+
+}
+
+
+
+#Header_Section {
+    font-size: 50px;
+    font: bolder;
+    height: 130px;
+    color: white;
+    text-align: center;
+    padding-top: 140px;
+
+
+
+}
+
+#Header_Section_1 {
+    text-align: center;
+    color: white;
+    font: 900;
+    height: 50px;
+    padding-left: 500px;
+    padding-right: 500px;
+    margin-bottom: 65px;
+}
+
+#Header_Section_2 {
+    text-decoration: none;
+    color: white;
+    background-color: #c41818;
+    margin-left: 45%;
+    margin-right: 40%;
+    padding: 14px 29px;
+    border-radius: 10px;
+    margin-bottom: 30%;
+    margin-top: 70%;
+}
+
+.title2 {
+
+    font-size: 42px;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.subtitle1 {
+    text-align: center;
+    padding-left: 400px;
+    padding-right: 400px;
+    padding-top: -19px;
+    font: 900;
+    color: black;
+}
+
+#box-shadow1 {
+    display: flex;
+    margin-left: 400px;
+    margin-right: 400px;
+
+}
+
+.tk1 {
+    text-align: center;
+    padding: 25px 30px;
+    color: gray;
+    background-color: rgba(232, 222, 222, 0.436);
+    border: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#tk2 {
+    text-align: center;
+    color: rgba(230, 13, 13, 0.848);
+    padding: 20px 30px;
+    background-color: palevioletred;
+    border: 3px solid rgba(230, 13, 13, 0.848);
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.tk3 {
+    text-align: center;
+    padding: 25px 20px;
+    color: gray;
+    background-color: rgba(232, 222, 222, 0.436);
+    border: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#form {
+    margin-top: 40px;
+}
+
+.text-area {
+    margin-left: 670px;
+    margin-right: 600px;
+    color: gray;
+}
+
+.text-area1 {
+    margin-left: 300px;
+    margin-right: 220px;
+    padding-left: 500px;
+    padding-right: 220px;
+    border-left: hidden;
+    border-right: hidden;
+    border-bottom: hidden;
+}
+
+.table {
+    display: flex;
+    margin-left: 250px;
+    margin-right: 250px;
+
+
+}
+
+#img1 {
+    padding-top: 50px;
+    padding-left: 12px;
+    padding-right: 1px;
+    margin-left: 15px;
+    margin-right: 5px;
+    border-radius: 15px;
+    background-color: #23c6ad33;
+}
+
+#img2 {
+    padding-top: 50px;
+    padding-left: 12px;
+    padding-right: 1px;
+    margin-left: 15px;
+    margin-right: 5px;
+    border-radius: 15px;
+    background-color: rgba(129, 21, 71, 0.344);
+}
+
+#img3 {
+    padding-top: 50px;
+    padding-left: 12px;
+    padding-right: 1px;
+    margin-left: 15px;
+    margin-right: 5px;
+    border-radius: 15px;
+    background-color: rgba(63, 86, 22, 0.474);
+}
+
+.divide {
+    display: flex;
+    margin-top: 150px;
+    margin-left: 270px;
+    margin-right: 280px;
+
+
+}
+
+.padding {
+    margin-right: 50px;
+
+}
+
+#heading {
+    font-size: 37px;
+}
+
+.heading1 {
+
+    margin-bottom: 60px;
+}
+
+
+.underline-banis {
+    text-decoration: none;
+    padding: 15px 20px 15px 20px;
+    background-color: #c41818;
+    color: white;
+    border-radius: 15px;
+    margin-top: 90%;
+}
+
+.pic img {
+    width: 100%;
+}
+
+.margin-bottom {
+    margin-bottom: 50px;
+}
+
+.equal {
+    display: flex;
+    margin-left: 270px;
+    margin-right: 200px;
+    margin-top: 100px;
+
+}
+
+.pic1 img {
+    width: 310%;
+}
+
+.padding1 {
+    margin-left: 410px;
+}
+
+
+
+#heading123 {
+    font-size: 37px;
+}
+
+
+.heading12 {
+
+    margin-bottom: 60px;
+}
+
+.community {
+    margin-top: 90px;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.box {
+    display: flex;
+    margin-left: 230px;
+    margin-right: 700px;
+}
+
+.shadow {
+    padding: 30px;
+
+
+
+}
+
+.shadow1 {
+    border: 5px solid rgb(112, 40, 64);
+    box-shadow: 10px 10px 5px rgb(43, 27, 27);
+}
+
+
+
+.sh {
+    text-align: center;
+    font-size: 30px;
+    color: #869a61;
+}
+
+.shh {
+    text-align: center;
+    font-size: 30px;
+    color: #a26d86;
+}
+
+.shhh {
+    text-align: center;
+    font-size: 30px;
+    color: #5b8c85;
+}
+
+.join {
+    text-decoration: none;
+    font-size: 25px;
+    font: 900;
+    color: whitesmoke;
+    margin-left: 680px;
+    margin-right: 500px;
+    padding: 5px 50px;
+    background-color: #c41818;
+    border: 5px solid indianred;
+    border-radius: 10px;
+
+}
+
+.san {
+
+    box-shadow: 0px -10px 10px rgb(170, 84, 9);
+
+}
+
+
+
+.update {
+    margin-top: 150px;
+}
+
+#middle {
+    text-align: center;
+    font-size: 42px;
+}
+
+#middle1 {
+    text-align: center;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+#form1 {
+    margin-top: 100px;
+
+}
+
+.text-area4 {
+    margin-left: 150px;
+    margin-right: 200px;
+    color: gray;
+}
+
+.text-area12 {
+    margin-left: 10px;
+    padding: 15px 150px 20px 20px;
+    background-color: grey;
+
+}
+
+.displ {
+    display: flex;
+    margin-left: 400px;
+    margin-right: 350px;
+    padding: 60px 100px 70px 130px;
+    background-color: antiquewhite;
+
+}
+
+::placeholder {
+
+    color: sandybrown;
+    opacity: 1;
+
+
+}
+
+#button9 {
+    text-decoration: none;
+    padding: 10px 35px 5px 30px;
+    background-color: red;
+    color: white;
+}
+
+footer {
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+footer h1 {
+    color: #c41818;
+    text-align: center;
+    font: italic;
+    font-size: 35px;
+}
+
+footer h6 {
+    color: white;
+    text-align: center;
+    font-size: 15px;
+}
