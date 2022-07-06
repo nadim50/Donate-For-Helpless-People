@@ -288,13 +288,13 @@ body {
     padding: 5px 50px;
     background-color: #c41818;
     border: 5px solid indianred;
-    border-radius: 10px;
+    border-radius: 19px;
 
 }
 
 .san {
 
-    box-shadow: 0px -10px 10px rgb(170, 84, 9);
+    box-shadow: 0px 0px 5px rgb(170, 84, 9);
 
 }
 
